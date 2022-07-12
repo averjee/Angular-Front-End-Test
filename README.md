@@ -29,7 +29,7 @@ Api: https://rickandmortyapi.com/
 2. Filter Fix: The application does not respect the currently chosen filter.
    Apply changes so the data is brought back correctly.
 
-3. Order By: Currently there is not way to order the data brought back.
+3. Order By: Currently there is not a way to order the data brought back.
    Apply changes so the data is correctly re-ordered.
 
 Step 3 - Upload Project
