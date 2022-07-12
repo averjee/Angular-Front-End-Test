@@ -30,7 +30,7 @@ Api: https://rickandmortyapi.com/
    Apply changes so the data is brought back correctly.
 
 3. Order By: Currently there is not a way to order the data brought back.
-   Apply changes so the data is correctly re-ordered.
+  Implement a way to order the cards, by the first appearance in the show and another of your choosing.
 
 Step 3 - Upload Project
 
