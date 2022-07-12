@@ -9,10 +9,11 @@ Step 1 - Generate work environment:
 Press the "Fork" button located at the top left of this page.
 This will instantly generate a new url and copy of this test for you to work on.
 
-Save the url it generates, this is what you will use when demonstrating
+Save the url it generates, this is where you will demonstrate
 the changes you've made.
 
-To successfully run the project on your local machine you will need.
+Next Download the project to your local machine.
+To successfully run the project on your machine you will need.
 
 NodeJs: https://nodejs.org/en/
 Angular CLI: https://angular.io/cli
