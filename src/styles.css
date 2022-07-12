@@ -3,27 +3,18 @@
 .page-container {
   margin: 0 auto;
   padding: 16px;
-  background-color: rgb(202, 255, 230);
+  background-color: #a9a9a9;
 }
 
 .header {
   margin: 0 auto;
   text-align: center;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
-.header h1 {
-  margin-bottom: -10px;
-}
 header p {
-  color: rgb(0, 128, 121);
-}
-
-html,
-body {
-  font-family: Roboto, Arial, sans-serif;
-  margin: 0;
-  height: 100%;
+  color: white;
+  font-size: 23px;
 }
 
 .flex-container {
