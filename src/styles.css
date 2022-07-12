@@ -1,4 +1,4 @@
-@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 
 .page-container {
   margin: 0 auto;
@@ -9,7 +9,6 @@
 .header {
   margin: 0 auto;
   text-align: center;
-  border-bottom: 1px solid rgb(0, 160, 152);
   margin-bottom: 10px;
 }
 
