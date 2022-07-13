@@ -1,11 +1,13 @@
-Angular Front-End Test
+## Angular Front-End Test
+
+
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/utopia-angular-challenge)
 
 This test introduces a http based search of Rick & Morty characters.
 The following will test the use of common apis in Angular
 as well as your approach to solving the problems outlined.
 
-Step 1 - Set Up:
+### Step 1 - Set Up:
 
 Route A:
 Press the "Fork" button located at the top left of this page.
@@ -25,7 +27,7 @@ Route B:
 If you do not wish to download the project, you can apply changes directly in stackblitz.
 just remember to save the url for your demo (you may need to sign in to do this).
 
-Step 2 - Challenge:
+### Step 2 - Challenge:
 
 Api: https://rickandmortyapi.com/
 
@@ -40,7 +42,7 @@ Api: https://rickandmortyapi.com/
    Implement a way to order the cards, by the characters first appearance in the show and another way of your choosing.
    e.g. A charachter who first appeared in S01E08 should be ordered after somone who first appreaed in S01E03.
 
-Step 3 - Upload
+### Step 3 - Upload
 
 Once you have made all your changes, you can simply drag and drop your new files here.
 https://developer.stackblitz.com/docs/platform/importing-projects/
