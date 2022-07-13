@@ -17,9 +17,9 @@ the changes you've made (you may need to sign in to do this).
 Next Download the project to your local machine.
 To successfully run the project on your machine you will need.
 
-NodeJs: https://nodejs.org/en/
-Angular CLI: https://angular.io/cli
-VsCode (or Preffered Editor): https://code.visualstudio.com/
+* NodeJs: https://nodejs.org/en/
+* Angular CLI: https://angular.io/cli
+* VsCode (or Preffered Editor): https://code.visualstudio.com/
 
 Route B:
 If you do not wish to download the project, you can apply changes directly in stackblitz.
