@@ -33,8 +33,8 @@ Api: https://rickandmortyapi.com/
    into your own component. It must retain the same details and styling.
 
 2. Fix the following 2 bugs related to filtering:
-   A) When typing in the search box with a filter applied the search results ignore the filter setting.
-   B) Changing the filter without searching does not update the results from the api, it just filters the currently visibile items.
+  *  A) When typing in the search box with a filter applied the search results ignore the filter setting.
+  *  B) Changing the filter without searching does not update the results from the api, it just filters the currently visibile items.
 
 3. Order By: Currently there is not a way to order the search results.
    Implement a way to order the cards, by the characters first appearance in the show and another way of your choosing.
